@@ -3,10 +3,8 @@
 
 
 
-- 🔭 Trabalho atualmente com **PHP, Laravel, JS e Vue** porem meu background é em **Python e Django**
+- 🔭 Trabalho atualmente com **Python e Django Rest Framework**
 - 🌱 No momento estou lendo **Codigo Limpo** (Clean Code) e em seguida **DDD**.
-- 👯 Eu gostaria de colaborar mais com projetos em **Python** com **Django**.
-- 🤔 Constantemente procuro ajuda sobre PHP e esta sendo muito bom.
 - 💬 Eu gosto muito de Desenvolver Web e tenho curiosidades com Automação.
 - 📫 Você pode entrar em contato comigo pelo email **tiagodevch@gmail.com**
 - ⚡ Mais sobre mim: **Gosto de jogar xadrez, anime e de vez enquando toco Flauta Transversa**
